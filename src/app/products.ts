@@ -2,31 +2,31 @@ export const products = [
 
     {
   
-      name: 'Phone XL',
+      name: 'Cat food',
   
-      price: 799,
+      price: 8,
   
-      description: 'A large phone with one of the best screens'
-  
-    },
-  
-    {
-  
-      name: 'Phone Mini',
-  
-      price: 699,
-  
-      description: 'A great phone with one of the best cameras'
+      description: 'This dry food will make your cat happy and healthy!'
   
     },
   
     {
   
-      name: 'Phone Standard',
+      name: 'Dog food',
   
-      price: 299,
+      price: 7,
   
-      description: ''
+      description: 'Tasty foods for your good bois'
+  
+    },
+  
+    {
+  
+      name: 'Hamster food',
+  
+      price: 3,
+  
+      description: 'Looks like you musli, but it´s an actual hamster food'
   
     }
   
